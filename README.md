@@ -1,1 +1,3 @@
-# amark-A markdown editor implemented in c language
+# amark
+
+A markdown editor implemented in c language
